@@ -5,7 +5,7 @@
 ]]>
 
 document.getElementById("e4ED5R9PUm61").svgatorPlayer.play();
-document.getElementById("e4ED5R9PUm61").svgatorPlayer.set('iterations', 10);
+document.getElementById("e4ED5R9PUm61").svgatorPlayer.set('iterations', 0);
   
 
 
